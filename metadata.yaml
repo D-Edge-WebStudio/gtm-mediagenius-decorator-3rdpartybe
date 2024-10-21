@@ -15,5 +15,5 @@
 homepage: "https://www.d-edge.com/"
 documentation: "https://github.com/D-Edge-WebStudio/gtm-mediagenius-decorator-3rdpartybe"
 versions:
-  - sha: 9ff3f66ce7c81c47a8fb3ce0ade918b7057e7300
+  - sha: fe0fad57d950ff1503ebf656a1d2420522f2d1ab
     changeNotes: Initial Version
